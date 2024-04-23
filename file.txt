@@ -1,6 +1,12 @@
 Hello world!
 Money!
 Adding new-api
+<<<<<<< HEAD
 new-api
 new-api
 new-api
+=======
+bugfix
+bugfix
+bugfix
+>>>>>>> bugfix
