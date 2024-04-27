@@ -1,17 +1,1 @@
 Hello world!
-<<<<<<< HEAD
-Money? yes
-Adding new-api
-new-api
-new-api
-new-api
-new-api2
-new-api2
-new-api2
-bugfix2
-bugfix2
-bugfix2
-ddddddd
-=======
-Money!
->>>>>>> 2b4f467 (new commit)
